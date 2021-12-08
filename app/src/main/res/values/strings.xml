@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TubesP3B</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_pembayaran">Pembayaran</string>
+    <string name="tv_dari">Dari : </string>
+    <string name="tv_asalkota">Jakarta</string>
+    <string name="tv_ke">Ke : </string>
+    <string name="tv_kotatujuan">Bandung</string>
+    <string name="tv_tanggalstr">Tanggal :</string>
+    <string name="tv_tanggal">1 Jan 2022 04:00</string>
+    <string name="tv_seat">Seat : </string>
+    <string name="tv_seatint">1,4</string>
+    <string name="tv_harga">Harga : </string>
+    <string name="tv_hargaint">200.000</string>
+    <string name="tv_diskon">Diskon : </string>
+    <string name="tv_diskonint">0</string>
+    <string name="tv_total">Total : </string>
+    <string name="tv_totalint">200.000</string>
+    <string name="but_pesan">Pesan</string>
+</resources>
