@@ -17,7 +17,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="50dp"
-                android:text="Let's sign you in."
+                android:text="@string/let_s_sign_you_in"
                 android:textColor="@color/main_font_color"
                 android:textSize="40sp"
                 android:layout_marginLeft="20dp"
@@ -25,7 +25,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Welcome back."
+                android:text="@string/welcome_back"
                 android:textColor="@color/main_font_color"
                 android:layout_marginTop="10dp"
                 android:textSize="32.5sp"
@@ -34,7 +34,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="You've been missed!"
+                android:text="@string/you_ve_been_missed"
                 android:textColor="@color/main_font_color"
                 android:layout_marginTop="10dp"
                 android:textSize="32.5sp"
@@ -48,7 +48,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="@color/main_font_color"
                 android:backgroundTint="@color/main_font_color"
-                android:hint="Username"
+                android:hint="@string/username"
                 android:textColorHint="@color/main_font_color"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"/>
@@ -58,7 +58,7 @@
                 android:layout_marginTop="20dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Password"
+                android:hint="@string/password"
                 android:textColor="@color/white"
                 android:textColorHint="@color/main_font_color"
                 android:backgroundTint="@color/main_font_color"
@@ -69,7 +69,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Sign In"
+            android:text="@string/sign_in"
             android:id="@+id/btn_sign_in"
             android:layout_alignParentBottom="true"
             android:background="@drawable/rounded_button"
